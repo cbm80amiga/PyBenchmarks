@@ -16,6 +16,7 @@ and modified for easy benchmarking in single and multi-core mode
  |Ryzen 3500U    |  Win11  |17.30 | 5.46|40.42|10.49|               
  |Apple M1 (MBA) |  macOS  | 9.77 | 2.31|18.78| 3.84|
  
+[![Github All Releases](https://img.shields.io/github/downloads/cbm80amiga/PyBenchmarks/total.svg)]()
 
 If you find it useful and want to buy me a coffee or a beer:
 
