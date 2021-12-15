@@ -1,6 +1,6 @@
 # PyBenchmarks
 Python benchmarks taken from https://salsa.debian.org/benchmarksgame-team/benchmarksgame/
-and modified for easy benchmarking in single and multi-core mode
+and modified for easy single- and multi-core benchmarking
 
 ## Notes:
 * macOS and Linux - use python3
