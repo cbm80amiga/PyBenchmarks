@@ -9,7 +9,7 @@ and modified for easy benchmarking in single and multi-core mode
 ## Results:
 
  |CPU|OS|bintree18 Single|bintree18 Multi|mandel4k Single|mandel4k Multi|
- |--|--|--|--|--|--|
+ |--|--|--:|--:|--:|--:|
  |Intel i3-4130T |  Win8.1 |20.88 |10.99|43.91|24.19|
  |Intel i7-7700HQ|  Debian9|12.90 | 4.10|31.23| 9.23|
  |Ryzen 4500U    |  Win10  |13.03 | 3.03|32.83| 6.62|
