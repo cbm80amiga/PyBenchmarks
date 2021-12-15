@@ -2,7 +2,7 @@
 Python benchmarks taken from https://salsa.debian.org/benchmarksgame-team/benchmarksgame/
 and modified for easy benchmarking in single and multi-core mode
 
-## Notes
+## Notes:
 * macOS and Linux - use python3
 * Windows - use Windows embeddable package (64-bit) https://www.python.org/ftp/python/3.10.1/python-3.10.1-embed-amd64.zip
 
