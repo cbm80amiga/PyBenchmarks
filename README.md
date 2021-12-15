@@ -1,6 +1,6 @@
 # PyBenchmarks
 Python benchmarks taken from https://salsa.debian.org/benchmarksgame-team/benchmarksgame/
-and modified for benchmarking in single and multi-core mode
+and modified for easy benchmarking in single and multi-core mode
 
 ## Results:
 
