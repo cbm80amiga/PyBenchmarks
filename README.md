@@ -8,7 +8,7 @@ and modified for easy single- and multi-core benchmarking
 
 ## Results:
 
- |CPU|OS|bintree18 Single|bintree18 Multi|mandel4k Single|mandel4k Multi|
+ |CPU|OS|bintree19 Single|bintree19 Multi|mandel4k Single|mandel4k Multi|
  |---|---|---:|---:|---:|---:|
  |Intel i3-4130T |  Win8.1 |20.88 |10.99|43.91|24.19|
  |Intel i7-7700HQ|  Debian9|12.90 | 4.10|31.23| 9.23|
